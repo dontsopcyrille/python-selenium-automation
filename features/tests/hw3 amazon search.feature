@@ -1,6 +1,6 @@
 # Created by donts at 10/2/2022
-Feature: # Enter feature name here
-  # Enter feature description here
-
-  Scenario: # Enter scenario name here
-    # Enter steps here
+  Feature:Tests for amazon cart icon
+    Scenario:user clicks on the cart
+      Given open amazon page
+        When click on the cart icon
+      Then  Amazon cart is empty
