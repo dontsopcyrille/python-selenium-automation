@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+    background-image: url('bg.png');
+    font-family: Helvetica;
+}
+​
+.section {
+    background-color: #f7f7f7;
+    padding: 10px;
+}
+​
+.underlinetext {
+    text-decoration: underline;
+}
+​
+.header {
+    background-color: #895fa3;
+    text-align: center;
+}
+​
+#coffee {
+    background-image: url('bg_coffee.jpg');
+}
+​
+h1, h3 {
+    color: white;
+}
+​
+h3 {
+    text-transform: lowercase;
+}

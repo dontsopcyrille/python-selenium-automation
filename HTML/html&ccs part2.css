@@ -1,0 +1,65 @@
+body {
+    margin: 0px;
+    background-image: url('bg.png');
+    font-family: Helvetica;
+    background-color: #f7f7f7;
+}
+
+.section1 {
+    background-color: #f7f7f7;
+    padding: 10px;
+}
+
+.underlinetext {
+    text-decoration: underline;
+}
+
+.header {
+    background-color: #A67A5B;
+    text-align: center;
+}
+
+#coffee {
+    background-image: url('stockvault-coffee-beans-on-wood-background239698.jpg '); background-size: 2200px;
+    background-color: #1a1c1a;
+    padding: 1px;
+    color: black;
+    font-size: large;
+
+
+
+}
+.content1 { color: black;
+}
+
+h1, h3 {
+    color: white;
+}
+h3 {
+    color: black;
+}
+h3 {
+    text-transform: lowercase;
+}
+
+.h5blue{
+    color: black;
+}
+.section6 {
+    background-image: url('21-Hercules-in-deep-ocean-2014.webp '); background-size: 2200px;
+
+}
+tr {
+    color: black;
+}
+.headerdescrp{
+    color: white;
+}
+h6 {
+    color: white;
+    font-size: large;
+}
+
+.continentdescp{
+    color: white;
+}
