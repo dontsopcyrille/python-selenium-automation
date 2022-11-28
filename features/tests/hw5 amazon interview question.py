@@ -51,7 +51,7 @@ def unique(string1: str): #any name in place of sting1 can be given
         if letter not in d:
             d[letter] = 1  # => d = {'g': 2} for google(2 "g")
         else:
-            d[letter] += 1 #count increase when element found
+            d[letter] += 1 #count increase by 1 when element found
             #more than one. so 3 same element will give count 3
     print(d)
 

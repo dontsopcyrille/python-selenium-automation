@@ -7,7 +7,7 @@ def browser_init(context):
     """
     context.driver = webdriver.Chrome()
     context.driver = webdriver.Chrome(executable_path="C:\\Users\\donts\\Desktop\\Automation\\python-selenium-automation\\chromedriver.exe")
-    # context.browser = webdriver.Safari()
+    # context.browser = webdriver .Safari()
     # context.browser = webdriver.Firefox()
 
     context.driver.maximize_window()
