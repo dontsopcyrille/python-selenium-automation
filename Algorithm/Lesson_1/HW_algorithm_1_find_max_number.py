@@ -1,3 +1,6 @@
+#Task
+#Find max number from 3 values.
+#Example.124,21,32. Result=124
 def find_max_number_from(three_values):
 
         max =  three_values[0] #the [x]--> to specify that you have a list.

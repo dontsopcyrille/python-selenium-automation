@@ -1,3 +1,8 @@
+#task
+#count odd number and even numbers. Count odd and ven digits of
+#the whole number.Example: number 34560, then 3 digits will be
+#even (4,6, and 0) and e2 odd digits(3 and 5)
+
 def count_odd_even(n):
     odd  = 0
     even = 0
@@ -5,6 +10,7 @@ def count_odd_even(n):
         current_digit = n % 10
         if current_digit % 2:
             odd = odd + 1
+            
         else:
             even = even + 1
         n = n // 10
